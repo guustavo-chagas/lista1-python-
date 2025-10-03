@@ -6,4 +6,4 @@ if len(pares) > 0:
     media = sum(pares) / len(pares)
     print("Média dos pares:", media)
 else:
-    print("Não há números pares na lista")
+    print("Não tem número")
