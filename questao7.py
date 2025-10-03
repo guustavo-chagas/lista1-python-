@@ -1,4 +1,4 @@
-limite = int(input("Digite até onde quer a sequência de Fibonacci: "))
+limite = int(input("Digite aqui a sequência: "))
 
 a, b = 0, 1
 while a <= limite:
